@@ -35,6 +35,6 @@
          $cadastros =& $_SESSION["cadastros"];
          $cadastros[$id] = null;
          
-         echo "Não existem produtos cadastradas";
+         echo "Não existem produtos cadastrados";
     }
     ?>
